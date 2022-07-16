@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/before.iml" filepath="$PROJECT_DIR$/before.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SwitchToKotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/SwitchToKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SwitchToKotlin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SwitchToKotlin.app.iml" />
     </modules>
   </component>
 </project>
